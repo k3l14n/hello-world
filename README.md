@@ -1,2 +1,4 @@
 # hello-world
-baru mulai
+hai kawan-kawan
+
+ini adalah latihan commit and change pertamaku
